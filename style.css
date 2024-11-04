@@ -21,7 +21,7 @@ ul{
   list-style: none;
 }
 
-.btn.btn-secondary{
+.btn.btn-second{
   background-color:#3e3e4f ;
   margin-bottom: 1rem;
   display: inline-block;
@@ -512,11 +512,9 @@ display: block;
   grid-template-columns: 1fr;
 }
 #about .about-content img{
-#about .about-content img{
   width: 290px;
   display: block;
   margin: 40px auto 0 auto;
-}
 }
 #about{
   padding-bottom: 5rem;
